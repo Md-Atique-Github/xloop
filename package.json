@@ -1,0 +1,14 @@
+{
+  "name": "xloop",
+  "version": "1.0.0",
+  "description": "BOOK API FOR LEARNING tdd IN JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ATIQUE is pairing with JAVERIA and OZAIB",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
