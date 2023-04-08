@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "ATIQUE is pairing with JAVERIA and OZAIB",
+  "author": "ATIQUE is paring with JAVERIA and OZAIB",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.5.0"
