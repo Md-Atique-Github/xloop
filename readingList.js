@@ -1,7 +1,9 @@
+// Written BY Muhammad Atique
+
 let readingList = []
 
 exports.getBook = ()=>{
-    return readingList;
+    return readingList
 }
 
 exports.addBook= (bookDetails,readDate,rating) =>{
@@ -16,3 +18,4 @@ exports.numRead=() => {
 exports.addBooks=(bookDetails,bookinfor)=>{
     readingList.push({...bookDetails,bookinfor});
 }
+
